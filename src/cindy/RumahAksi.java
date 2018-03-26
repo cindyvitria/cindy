@@ -33,5 +33,9 @@ public class RumahAksi {
         r3.tipeRumah=54;
         r3.bntkJendela="Abstrak";
         r3.jnsPintu="Pintu Dorong";
+        
+        r1.cetakInfo();
+        r2.cetakInfo();
+        r3.cetakInfo();
     }
 }
