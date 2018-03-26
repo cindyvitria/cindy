@@ -10,5 +10,17 @@ package cindy;
  * @author ACER
  */
 public class Rumah {
+    String warnaTembok;
+    String warnaAtap;
+    int tipeRumah;
+    String bntkJendela;
+    String jnsPintu;
     
+    void cetakInfo(){
+        System.out.println("Warna Tembok Rumah  : "+warnaTembok);
+        System.out.println("Warna Atap Rumah    : "+warnaAtap);
+        System.out.println("Tipe Rumah          : "+tipeRumah);
+        System.out.println("Bentuk Jendela      : "+bntkJendela);
+        System.out.println("Jenis Pintu         : "+jnsPintu);
+    }
 }
