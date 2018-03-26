@@ -22,5 +22,6 @@ public class Rumah {
         System.out.println("Tipe Rumah          : "+tipeRumah);
         System.out.println("Bentuk Jendela      : "+bntkJendela);
         System.out.println("Jenis Pintu         : "+jnsPintu);
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
     }
 }
